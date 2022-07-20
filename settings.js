@@ -3,34 +3,34 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa : 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan le owner
+	alfa : 'https://api.yamato.xyz', //apabila link api eror, segera laporkan le owner
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz' : 'your key', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.yamato.xyz' : 'your key', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
-global.self_mode = false
+global.self_mode = trur
 global.autobio = true
-global.msg_connected = false
-global.user_register = false
-global.anti_delete = false
-global.anticall = false
+global.msg_connected = true
+global.user_register = true
+global.anti_delete = trur
+global.anticall = true
 global.auto_welcome_msg = true
 global.auto_leave_msg = true
 global.prefix = "."
 global.language = "ind"
-global.ownerNumberr = "62887435047326"
-global.ownerbot = ['62887435047326@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.botname = "Alphabot"
+global.ownerNumberr = "6288804947282"
+global.ownerbot = ['6288804947282@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
+global.ownername = "Yamato"
+global.botname = "YamatoBot"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.fake = "「  YamatoBot  」\nCreated By Yamato"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
