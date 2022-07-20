@@ -11,11 +11,11 @@ global.APIKeys = {
 	'https://api.yamato.xyz' : 'your key', // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
-global.self_mode = trur
+global.self_mode = true
 global.autobio = true
 global.msg_connected = true
 global.user_register = true
-global.anti_delete = trur
+global.anti_delete = true
 global.anticall = true
 global.auto_welcome_msg = true
 global.auto_leave_msg = true
